@@ -1,0 +1,27 @@
+{
+  "name": "d3-map-demo",
+  "version": "0.1.0",
+  "description": "Shape file to topojson conversion tutorial with d3 overlap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvasko/D3-Map-Demo.git"
+  },
+  "keywords": [
+    "geo",
+    "d3",
+    "topojson"
+  ],
+  "author": "Bonnie DiPasquale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bvasko/D3-Map-Demo/issues"
+  },
+  "homepage": "https://github.com/bvasko/D3-Map-Demo#readme",
+  "dependencies": {
+    "topojson": "^1.6.26"
+  }
+}
